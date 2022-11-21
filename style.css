@@ -7,58 +7,61 @@ body{
 
 
 
-
 .top-nav-bar-wrapper {
     background-color: aquamarine!important;
     padding: 0px;
    
-}
-.top-nav-bar-wrapper ul li p{
+ }
+ .top-nav-bar-wrapper ul li a{
     padding-left: 13rem;
     margin: 0px;
     color: #fff;
-}
-.top-nav-bar-wrapper span{
+ }
+ .top-nav-bar-wrapper span{
    padding-right: 13rem;
    color: #fff!important;
-}
-
-.bottom-nav-bar-wrapper{
-    
-    background-color:transparent;
-}
-.bottom-nav-bar-wrapper .new-inner-1 {
-   width: 100%;
-   }
-.bottom-nav-bar-wrapper .new-inner-1 a{
-    
-    padding-left: 16rem;
  }
-.bottom-nav-bar-wrapper .new-inner-1 img{
-    width: 137px!important;
-    height: 59px;
-}
-
-.bottom-nav-bar-wrapper .navbar-nav{
-    width: 50%;
-}
-.bottom-nav-bar-wrapper .navbar-nav ul li{
-  padding: 4px;
-  padding-top: 6px;
-  padding-bottom: 6px;
-  list-style-type: none;
-  width: 211px;
-}
-.bottom-nav-bar-wrapper .navbar-nav ul li a{
-  text-decoration: none;
-  color: black;
+ 
+ 
+ 
+ 
   
+ .search-bar-wrapper img{
+ width: 139px;
+ height: 76px;
  }
- .bottom-nav-bar-wrapper .navbar-nav ul li a:hover{
+ .search-bar-wrapper form{
+    padding-right: 140px;
+    }
+ 
+    .search-bar-wrapper form ul li{
+       padding: 4px;
+       padding-top: 6px;
+       padding-bottom: 6px;
+       list-style-type: none;
+       width: 211px;
+      }
+      .search-bar-wrapper form ul li a{
+       text-decoration: none;
+       color: black;
+       
+      }
+    .search-bar-wrapper .navbar-expand-lg a{
+       color:#222;
+       
+        }
+        .search-bar-wrapper form ul li a:hover{
    
-   color: rgb(15, 184, 127);
-   
-  }
+          color: rgb(15, 184, 127);
+          
+         }
+        .search-bar-wrapper .navbar-expand-lg .container-fluid{
+            margin-left: 24px;
+            
+             }
+        .search-bar-wrapper .navbar-collapse ul.navbar-nav li.nav-item  a{
+            color: #fff;
+             }
 
   .hero-class img{
     height: 390px;
