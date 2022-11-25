@@ -107,6 +107,10 @@ position: absolute;
     width: 126px;
     border-radius: 37px;
  }
+ .service-provides .row .col-md-6 {
+   width: auto;
+   
+}
  .service-provides .col-md-6 .card{
     border-style: none;
     
@@ -122,6 +126,10 @@ position: absolute;
    list-style-type: circle green 9px;
     
  }
+ .service-provides .col-md-4 {
+   width: auto;
+       
+   }
  .service-provides .col-md-4 .card {
 border-style: none;
     
@@ -139,12 +147,19 @@ border-style: none;
     
 }
 .emergency .row .col-md-4{
+   width: auto;
+    
+}
+.emergency .row .col-md-4{
    color: #fff;
    align-items: center;
     
 }
 .related-services .row .image-sec img{
     width: 426px;
+}
+.related-services .row .col-md-6 {
+   width: auto;
 }
 .related-services .row .col-md-6 button{
     position: relative;
