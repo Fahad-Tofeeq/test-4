@@ -178,6 +178,10 @@ footer .footer ul li{
 footer .footer ul li:hover{
    color: #222;
 }
+footer .footer .row .col-md-3 {
+   width:25% ;
+   
+}
 footer .footer .col-md-3 .card{
    border-radius: 12px;
    
